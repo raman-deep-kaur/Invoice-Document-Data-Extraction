@@ -145,11 +145,6 @@ The data will also be saved in a CSV file, which will look something like this:
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
 
 ## Acknowledgements
 
@@ -163,9 +158,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-## Contact Information
 
-If you have any questions or suggestions regarding this project, feel free to reach out to me at mohammedmanalodi@gmail.com.
-
----
 
